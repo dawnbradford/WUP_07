@@ -79,3 +79,5 @@ fisher.test(table1)
 
 ## Conclusions
 
+We reject the null hypothesis because the P-value is 0.0001 and because the odds of a male dying are 2.3 times greater than that of a female.
+
